@@ -8,6 +8,7 @@ from random import randint
 import traceback
 import sqlite3
 import sys
+import os
 
 client = discord.Client()
 
